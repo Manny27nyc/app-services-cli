@@ -6,8 +6,8 @@ import (
 
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/registry"
 
+	"github.com/redhat-developer/app-services-cli/pkg/cmd/env/status"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/login"
-	"github.com/redhat-developer/app-services-cli/pkg/cmd/status"
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/whoami"
 
 	"github.com/redhat-developer/app-services-cli/pkg/cmd/cluster"
